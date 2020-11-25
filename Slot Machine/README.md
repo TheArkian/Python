@@ -1,4 +1,4 @@
-#Information
+# Information
 
 This was coded on repl.it. You can find the project here: https://repl.it/@TheArkianYT/Slot-Machine
 
